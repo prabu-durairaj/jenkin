@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.mkyong.customer.model.Customer;
  
-public interface CustomerBo1{
+public interface CustomerBo{
  
   void addCustomer(Customer customer);
  

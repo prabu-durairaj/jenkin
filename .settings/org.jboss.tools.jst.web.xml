@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file-systems VERSION="2.0.0" application-name="JSFExample"
+ model-entity="FileSystems" workspace-home="./src/main/webapp/WEB-INF">
+ <file-system NAME="WEB-INF" location="%workspace.home%" model-entity="FileSystemFolder"/>
+ <file-system NAME="WEB-ROOT" info="Content-Type=Web"
+  location="%workspace.home%/.." model-entity="FileSystemFolder"/>
+ <file-system NAME="src" location="%workspace.home%/../../java" model-entity="FileSystemFolder"/>
+ <file-system NAME="lib" location="%workspace.home%/lib" model-entity="FileSystemFolder"/>
+ <file-system NAME="classes" location="%workspace.home%/classes" model-entity="FileSystemFolder"/>
+ <file-system NAME="src-1" location="%workspace.home%/../../resources" model-entity="FileSystemFolder"/>
+ <file-system NAME="JSFExample" location="%eclipse.project%" model-entity="FileSystemFolder"/>
+ <file-system NAME="lib-resources.jar"
+  location="C:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\resources.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-dnsns.jar"
+  location="C:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\ext\dnsns.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-localedata.jar"
+  location="C:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\ext\localedata.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-sunjce_provider.jar"
+  location="C:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\ext\sunjce_provider.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-sunmscapi.jar"
+  location="C:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\ext\sunmscapi.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-sunpkcs11.jar"
+  location="C:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\ext\sunpkcs11.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-junit-3.8.1.jar"
+  location="C:\Users\prabu\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-spring-2.5.6.jar"
+  location="C:\Users\prabu\.m2\repository\org\springframework\spring\2.5.6\spring-2.5.6.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-spring-web-2.5.6.jar"
+  location="C:\Users\prabu\.m2\repository\org\springframework\spring-web\2.5.6\spring-web-2.5.6.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-spring-beans-2.5.6.jar"
+  location="C:\Users\prabu\.m2\repository\org\springframework\spring-beans\2.5.6\spring-beans-2.5.6.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-spring-context-2.5.6.jar"
+  location="C:\Users\prabu\.m2\repository\org\springframework\spring-context\2.5.6\spring-context-2.5.6.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-aopalliance-1.0.jar"
+  location="C:\Users\prabu\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-spring-core-2.5.6.jar"
+  location="C:\Users\prabu\.m2\repository\org\springframework\spring-core\2.5.6\spring-core-2.5.6.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-cglib-2.2.jar"
+  location="C:\Users\prabu\.m2\repository\cglib\cglib\2.2\cglib-2.2.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-asm-3.1.jar"
+  location="C:\Users\prabu\.m2\repository\asm\asm\3.1\asm-3.1.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-mysql-connector-java-5.1.9.jar"
+  location="C:\Users\prabu\.m2\repository\mysql\mysql-connector-java\5.1.9\mysql-connector-java-5.1.9.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-hibernate-core-3.3.2.GA.jar"
+  location="C:\Users\prabu\.m2\repository\org\hibernate\hibernate-core\3.3.2.GA\hibernate-core-3.3.2.GA.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-jta-1.1.jar"
+  location="C:\Users\prabu\.m2\repository\javax\transaction\jta\1.1\jta-1.1.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-slf4j-api-1.5.8.jar"
+  location="C:\Users\prabu\.m2\repository\org\slf4j\slf4j-api\1.5.8\slf4j-api-1.5.8.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-slf4j-log4j12-1.5.8.jar"
+  location="C:\Users\prabu\.m2\repository\org\slf4j\slf4j-log4j12\1.5.8\slf4j-log4j12-1.5.8.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-log4j-1.2.14.jar"
+  location="C:\Users\prabu\.m2\repository\log4j\log4j\1.2.14\log4j-1.2.14.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-javassist-3.11.0.GA.jar"
+  location="C:\Users\prabu\.m2\repository\javassist\javassist\3.11.0.GA\javassist-3.11.0.GA.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-dom4j-1.6.1.jar"
+  location="C:\Users\prabu\.m2\repository\dom4j\dom4j\1.6.1\dom4j-1.6.1.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-xml-apis-1.0.b2.jar"
+  location="C:\Users\prabu\.m2\repository\xml-apis\xml-apis\1.0.b2\xml-apis-1.0.b2.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-commons-logging-1.1.1.jar"
+  location="C:\Users\prabu\.m2\repository\commons-logging\commons-logging\1.1.1\commons-logging-1.1.1.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-commons-collections-3.2.1.jar"
+  location="C:\Users\prabu\.m2\repository\commons-collections\commons-collections\3.2.1\commons-collections-3.2.1.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-antlr-2.7.7.jar"
+  location="C:\Users\prabu\.m2\repository\antlr\antlr\2.7.7\antlr-2.7.7.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-jsf-api-2.0.3.jar"
+  location="C:\Users\prabu\.m2\repository\com\sun\faces\jsf-api\2.0.3\jsf-api-2.0.3.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-jsf-impl-2.0.3.jar"
+  location="C:\Users\prabu\.m2\repository\com\sun\faces\jsf-impl\2.0.3\jsf-impl-2.0.3.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-el-impl-2.2.jar"
+  location="C:\Users\prabu\.m2\repository\org\glassfish\web\el-impl\2.2\el-impl-2.2.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-el-api-2.2.jar"
+  location="C:\Users\prabu\.m2\repository\javax\el\el-api\2.2\el-api-2.2.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-jstl-1.2.jar"
+  location="C:\Users\prabu\.m2\repository\javax\servlet\jstl\1.2\jstl-1.2.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-servlet-api-2.5.jar"
+  location="C:\Users\prabu\.m2\repository\javax\servlet\servlet-api\2.5\servlet-api-2.5.jar" model-entity="FileSystemJar"/>
+ <file-system NAME="lib-jsp-api-2.1.jar"
+  location="C:\Users\prabu\.m2\repository\javax\servlet\jsp\jsp-api\2.1\jsp-api-2.1.jar" model-entity="FileSystemJar"/>
+ <web SERVLET_VERSION="2.4" model-entity="JstWeb" model-path="/web.xml">
+  <module URI="/WEB-INF/faces-config.xml" model-entity="WebJSFModule"
+   model-path="/faces-config.xml" src="src" web-root="WEB-ROOT"/>
+ </web>
+</file-systems>

@@ -9,5 +9,6 @@ public interface CustomerBo3{
   void addCustomer(Customer customer);
  
 	List<Customer> findAllCustomer();
+	String a;
  
 }

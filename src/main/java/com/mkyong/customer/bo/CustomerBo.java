@@ -10,6 +10,6 @@ public interface CustomerBo{
  
 	List<Customer> findAllCustomer();
 	String ab="try1";
-	String ab="try2";
+	String ab="try3";
  
 }
